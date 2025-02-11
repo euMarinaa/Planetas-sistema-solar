@@ -19,9 +19,5 @@ O arquivo **planetas_sistema_solar.csv** contém os seguintes campos:
 | Possui Anéis?                 | Indica se o planeta tem anéis (Sim ou Não) |
 | Composição Atmosférica        | Principais gases presentes na atmosfera |
 
-## 📥 Download
-Você pode baixar o arquivo CSV diretamente:
-
-[🔗 Baixar planetas_sistema_solar.csv](./planetas_sistema_solar.csv)
 
 
